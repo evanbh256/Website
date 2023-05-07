@@ -127,22 +127,37 @@ body {
   color: #ff41df;
   font-size: 36px;
   margin-bottom: 20px;
+  background-color: rgba(255, 255, 255, 0);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.334);
+  padding: 10px;
+  
 }
 .about h3 {
   color: #05a5a3;
   font-size: 30px;
   margin-bottom: 20px;
+  background-color: rgba(5, 5, 5, 0);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.334);
+  padding: 10px;
 }
 .about p {
   color: #ffffff;
   font-size: 20px;
   line-height: 1.5;
   margin-bottom: 20px;
+  
 }
 .about ul {
   list-style: none;
   padding: 0;
   margin-bottom: 20px;
+  
 }
 .about li {
   color: #ffffff;
@@ -160,4 +175,5 @@ body {
 }
 .about p {
   font-size: 20px;
+  
 }
